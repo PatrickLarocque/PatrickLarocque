@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PatrickLarocque
-- 👀 I’m interested in creative coding, full stack web development, full featured desktop and mobile development.
-- 🌱 I’m currently refining my react skills, and learning AI/ML models in python, pytorch, and tensor flow.
+- 🧑🏻‍💻 Currently working as an SDE intern @ Intact
+- 👀 I’m interested in developer tooling, compilers and distrubted systems.
+- 🌱 Always looking to learn and improve. Currently exploring Java's GraalVM AOT compilation engine.
 - 📫 How to reach me: patricklarocque1@gmail.com
 
 <!---
